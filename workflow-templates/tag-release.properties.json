@@ -1,0 +1,12 @@
+{
+    "name": "The StepUp tag release template",
+    "description": "Use this template to create a GitHub Actions workflow to automate tagging of application releases.",
+    "categories": [
+        "StepUp",
+        "Release",
+        "tag"
+    ],
+    "filePatterns": [
+        "^component_info$"
+    ]
+}
