@@ -1,6 +1,6 @@
 {
     "name": "Daily security checks",
-    "description": "Use this template to create a GitHub Actions workflow to run daily checks on outdated versions. supports PHP, Node, Pyhton and JAVA projects",
+    "description": "Use this template to create a GitHub Actions workflow to run daily checks on outdated versions. supports PHP, Node, Python and JAVA projects",
     "iconName": "octicon shield-check",
     "categories": [
         "Security",
