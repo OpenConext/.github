@@ -51,3 +51,12 @@ power users.")
 ## Extra Information
 
 Add any other context, related issues, or technical notes here.
+
+### Defenition of Done
+- [ ] Code Review & Merge: De Developer (Dev) heeft een Pull Request (PR) aangemaakt, deze is goedgekeurd door een andere Dev of de Technisch Product Manager (TPM), en de code is gemerged naar main.
+- [ ] Testversie Gebouwd: De Developer heeft een werkende -SNAPSHOT versie van de betrokken applicatie(s) gebouwd.
+- [ ] Installatie op Testomgeving: De -SNAPSHOT versie is geïnstalleerd op de interne testomgeving door de Dev of de TPM.
+- [ ] Functionele Validatie: De Product Manager (PM) en/of de TPM heeft de functionaliteit getest en gevalideerd op de interne testomgeving.
+- [ ] Changelog Bijgewerkt: De CHANGELOG in de relevante GitHub-repository('s) is bijgewerkt met de wijzigingen.
+- [ ] Issue Koppeling: Het GitHub Issue bevat een link naar de relevante Pull Request(s) of commit(s).
+- [ ] Afsluiting: Het GitHub Issue is gesloten en verplaatst naar de 'Delivered' kolom.
